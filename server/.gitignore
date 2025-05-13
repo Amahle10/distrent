@@ -1,0 +1,4 @@
+PORT=5001
+MONGODB_URI=mongodb://localhost:27017/geolocation_trends_db
+# For production, use a strong secret for JWT if you add authentication
+# JWT_SECRET=your_jwt_secret_here_for_production
